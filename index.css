@@ -1,0 +1,8 @@
+body{
+    font-family: sans-serif;
+}
+
+li{
+    display: inline-block;
+    padding-left: 10px;
+}
